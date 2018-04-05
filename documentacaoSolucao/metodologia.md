@@ -1,4 +1,5 @@
 # 1. metodológia
+
 A seguir será descrito como o grupo irá se organizar para as soluções dos problemas apresentados na disciplina de __Aprendizado de Máquina__ , a metodologia descrita a seguir foi incorporada levando em consideração as necessidades e disponibilidade dos membros do grupo visando alcançar os melhores resultados possiveis.
 
 # 2. Kanban
