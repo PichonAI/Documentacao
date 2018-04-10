@@ -8,6 +8,8 @@ A metodologia utilizada encontra-se [aqui](https://github.com/SkyNetRecruits/Doc
 
 ## Abordagem de Problemas
 
+A forma como os problema foi abordado pela equipe pode ser observada aqui.
+
 ## Integrantes
 
 |Nome|Github|
