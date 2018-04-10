@@ -8,7 +8,11 @@ A metodologia utilizada encontra-se [aqui](https://github.com/SkyNetRecruits/Doc
 
 ## Abordagem de Problemas
 
-A forma como os problema foi abordado pela equipe pode ser observada aqui.
+A forma como os problema foi abordado pela equipe pode ser observada [aqui]((https://github.com/SkyNetRecruits/Documentacao/blob/master/documentacaoSolucao/abordagem.md)).
+
+## Ferramentas utilizadas
+
+Para a realização deste trabalho foram empregadas as seguintes [ferramentas]()
 
 ## Integrantes
 

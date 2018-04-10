@@ -1,8 +1,8 @@
-# 1. metodológia
+## 1. metodológia
 
 A seguir será descrito como o grupo irá se organizar para as soluções dos problemas apresentados na disciplina de __Aprendizado de Máquina__ , a metodologia descrita a seguir foi incorporada levando em consideração as necessidades e disponibilidade dos membros do grupo visando alcançar os melhores resultados possiveis.
 
-# 2. Kanban
+## 2. Kanban
 
 O Kanban é um estrutura popularmente usada em desenvolvimento de software ágil, onde os itens do trabalho são
 representados visualmente em um quadro, conhecido com quadro Kanban. Este quadro que é dividido em comumente em
@@ -29,7 +29,4 @@ O quadro kanban estará disponivel no ZenHub onde todos os membros da equipe de 
 
  * <b>Done</b> : A atividade passou por revisão e foi aceita como concluida.
 
-# 3. Sprints :
-
-  Para fins de organização do grupo será incorporado na metodologia do grupo o sistema de Sprints, afim de ser usado com deadline para as entregas das atividades no tempo limite da entrega do trabalho.
-  As terão duração de uma semana sendo inicializadas e finalizadas nas quinta-feiras.
+Para acompanhamento e alinhamento entre os membros do grupo serão realizadas reuniões todas as quintas-feira, gerando assim um deadline para apresentação dos resultados ao membros da equipe. Os planejamentos semanais podem ser encontrados [aqui](https://github.com/SkyNetRecruits/Documentacao/blob/master/documentacaoSolucao/planejamento-semanal.md)

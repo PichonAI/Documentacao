@@ -13,7 +13,7 @@ de cima para baixo, onde em para se definir a que nó será visitado, depende do
 que compoem cada relacionamento dos nós até que seja visitado um nó folha finalizando assim a
 a busca pela classificação de instancia.
 
-(adicinar imagem)
+[[imagens/arvore-de-decisao.jpeg]]
 
 ## 2. Tipos de árvore de Decisão
 * <b>Arvore de decisão categoricas</b>: Arvores de decisão categoricas, são arvores que tem
