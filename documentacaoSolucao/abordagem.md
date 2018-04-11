@@ -6,7 +6,7 @@ com o intuito de comparar as soluções obtidades afim de definir qual seria a m
 
 Os metodos selecionados pelo grupo de desenvolvimento foram:
 
-* [Árvore de decisão](https://github.com/SkyNetRecruits/Documentacao/blob/master/documentacaoSolucao/arvore-de-decisao.md)
+* [árvore de decisão](https://github.com/SkyNetRecruits/Documentacao/blob/master/documentacaoSolucao/árvore-de-decisao.md)
 
 * [Segundo-Metodo]()
 * [Terceiro-Metodo]()
