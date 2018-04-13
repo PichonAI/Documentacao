@@ -1,0 +1,8 @@
+Data visualization:
+http://scikit-learn.org/stable/modules/manifold.html
+
+Indian guy from youtube:
+https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
+
+Treat missing data:
+http://www.stat.columbia.edu/~gelman/arm/missing.pdf
