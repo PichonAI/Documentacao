@@ -43,9 +43,43 @@ A escolha do algoritmo se deu primeiramente pelo fato do problema ser de classif
 * Capaz de trabalhar com dados numéricos e categóricos.
 * Bom funcinamento na predição dos dados.
 
-## 5. Referências
+## 5. Métricas
+
+Para avaliar a precisão da previsão de classicação dos dados pelo método da árvore de decisão foram utilizadas algumas métricas de avaliação do modelo. Para utilizar essas métricas, inicialmente foi necessário utilizar uma função da biblioteca "sklearn.model_metrics", que é:
+
+* **train_test_split**: função que recebe o conjunto de dados que vão ser classificados e o conjunto alvo, ou seja, os resultados de classificação dos dados. O resultado é a separação em dados de treino e dados de teste, ambos divididos em dados para classificação e resultados da classicação desses dados.
+
+Após a separação correta dos dados é realizado o treino do modelo com os dados de treino e a predição com conjunto de dados de teste. Com a predição realizada finalmente utiliza-se as métricas da biblioteca "sklearn.metrics", que são:
+
+* **confusion_matrix**: métrica que recebe os dados previstos e retorna a classificação realizada em 4 grupos distintos: verdadeiro negativo(tn), que são dados classificados corretamente como negativos, falso positivo(fp), que são dados que foram classificados de forma incorreta em positivos, falso negativo(fn), que são dados que foram classificados de forma incorreta em negativos, e verdadeiro positivo(tp), dados que foram classificados corretamente em positivos.
+
+* **accuracy_score**: métrica que recebe os dados previstos e as classificações corretas dos dados de teste, verificando a porcentagem de dados previstos corretamente em relação à classicação correta.
+
+* **precision_score**: métrica que verifica a precisão de todos os dados que atestaram verdadeiro em relação aos dados que são falsos e foram classificados em verdadeiros. A fórmula utilizada é:
+
+    **tp / (tp + fp)**
+
+* **recall_score**: métrica que verifica a precisão de todos os dados que atestaram verdadeiro em relação aos dados totais que são verdadeiros. A fórmula utilizada é:
+
+    **tp / (tp + fn)**
+
+* **hamming loss**: métrica que verifica a porcentagem de dados que foram classificados de forma incorreta.
+
+## 6. Referências
 
 - skelearn. http://scikit-learn.org/stable/modules/tree.html acessado em 09/04/2018.
+- skelearn. http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+acessado em 16/04/2018.
+- skelearn. http://scikit-learn.org/stable/modules/generated/sklearn.metrics.hamming_loss.html#sklearn.metrics.hamming_loss
+acessado em 16/04/2018.
+- skelearn. http://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html#sklearn.metrics.confusion_matrix
+acessado em 16/04/2018.
+- sklearn. http://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html#sklearn.metrics.accuracy_score
+acessado em 16/04/2018.
+- sklearn. http://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html#sklearn.metrics.precision_score
+acessado em 16/04/2018.
+- sklearn. http://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html#sklearn.metrics.recall_score
+acessado em 16/04/2018.
 Anaytics Vdhaya.
 - https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/
 acessado em 09/04/2018.
