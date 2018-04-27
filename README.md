@@ -32,3 +32,4 @@ Para a realização deste trabalho foram empregadas as seguintes [ferramentas](h
 |Arthur Temporim|[@arthurTemporim](https://github.com/arthurTemporim)|
 |Josué Nascimento|[@josutk](https://github.com/josutk)
 |Júlio Xavier|[@julioxavierr](https://github.com/julioxavierr)|
+|Guilherme Sant'Ana|[@GDSRS](https://github.com/GDSRS)
