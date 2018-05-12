@@ -2,7 +2,7 @@
 
 ## Documentação
 
-## Metodólogia de Desenvolmimento
+## Metodologia de Desenvolmimento
 
 A metodologia utilizada encontra-se [aqui](https://github.com/SkyNetRecruits/Documentacao/blob/master/documentacaoSolucao/metodologia.md).
 
@@ -17,19 +17,25 @@ A equipe foi dividida em 3 subgrupos a fim de que cada um destes utilizasse um m
 
 Os métodos selecionados pelo grupo de desenvolvimento foram:
 
+### Relatório 1
+
 * [Árvore de decisão](https://github.com/SkyNetRecruits/Documentacao/blob/master/documentacaoSolucao/arvore-de-decisao.md)
-* [Segundo-Metodo]()
-* [Rede neural](https://github.com/SkyNetRecruits/Documentacao/blob/master/documentacaoSolucao/rede-neural.md)
 
 ## Ferramentas Utilizadas
 
 Para a realização deste trabalho foram empregadas as seguintes [ferramentas](https://github.com/SkyNetRecruits/Documentacao/blob/master/documentacaoSolucao/ferramentas.md).
+
+### Relatório 2
+
+* [Ridge Regression](https://github.com/SkyNetRecruits/Documentacao/blob/master/documentacaoSolucao/ridge-regression.md)
+
 
 ## Integrantes
 
 |Nome|Github|
 |---|------|
 |Arthur Temporim|[@arthurTemporim](https://github.com/arthurTemporim)|
-|Josué Nascimento|[@josutk](https://github.com/josutk)
+|Josué Nascimento|[@josutk](https://github.com/josutk)|
 |Júlio Xavier|[@julioxavierr](https://github.com/julioxavierr)|
-|Guilherme Sant'Ana|[@GDSRS](https://github.com/GDSRS)
+|Guilherme Sant'Ana|[@GDSRS](https://github.com/GDSRS)|
+|Thiago Moreira|[@thiagocmoreira](https://github.com/thiagocmoreira)|
